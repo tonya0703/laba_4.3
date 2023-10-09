@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: ap_laba_4.3, Configuration: Debug x64 ------
+1>laba_4.3.cpp
+1>ap_laba_4.3.vcxproj -> C:\Users\TONYA\source\repos\ap_laba_4.3\x64\Debug\ap_laba_4.3.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 18:09 and took 04,754 seconds ==========
